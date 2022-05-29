@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @P3psiiii
+- 👋 Hi, I’m Sulphinx
 - 👀 I’m interested in Minecraft spigot plugin coding, + skript.
 - 🌱 I’m currently working on my minecraft server.
 - 📫 Contact me via. Discord ! P3psiiii ∞#0001
