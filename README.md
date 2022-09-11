@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sulphinx
 - 👀 I’m interested in Minecraft spigot plugin coding, + skript.
 - 🌱 I’m currently working on my minecraft server.
-- 📫 Contact me via. Discord ! P3psiiii ∞#0001
+- 📫 Contact me via. Discord ! Sulphinx#0001
 
 <!---
 P3psiiii/P3psiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
