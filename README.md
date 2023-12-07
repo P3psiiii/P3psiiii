@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sulphinx
-- 👀 I’m interested in Minecraft spigot plugin coding, + skript.
-- 🌱 I’m currently working on my minecraft server.
+- 👀 I’m interested in Minecraft spigot plugin coding, skript, html, css & svelte.
+- 🌱 I’m currently working on my minecraft host.
 - 📫 Contact me via. Discord Sulphinx#0
 
 <!---
